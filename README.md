@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=livsi&show_icons=true&theme=swift&count_private=true">
+</p>
 <!--
 **livsi/livsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
