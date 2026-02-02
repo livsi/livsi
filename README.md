@@ -1,4 +1,5 @@
-### Hi there 👋
+### Всем привет 👋
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=livsi&show_icons=true&theme=swift&count_private=true">
 </p>
